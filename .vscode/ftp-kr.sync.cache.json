@@ -1,0 +1,39 @@
+{
+  "ftp://zajicek.endora.cz@danielknourek9e": {
+    "danielknourek.9e.cz": {
+      "web": {
+        ".CCcode": {
+          "ControlRoom": {
+            "BuildUpdater.lua": {
+              "type": "-",
+              "size": 538,
+              "lmtime": 0,
+              "modified": false
+            },
+            "GUI.lua": {
+              "type": "-",
+              "size": 654,
+              "lmtime": 1553909874365,
+              "modified": false
+            }
+          },
+          ".gitignore": {
+            "type": "-",
+            "size": 47,
+            "lmtime": 0,
+            "modified": true
+          },
+          "paint.lua": {
+            "type": "-",
+            "size": 11108,
+            "lmtime": 1553907568891,
+            "modified": false
+          }
+        }
+      }
+    },
+    ".sessions": {},
+    ".tmp": {}
+  },
+  "$version": 1
+}
