@@ -1,0 +1,10 @@
+local file_GUI = "http://danielknourek.9e.cz/.CCcode/TurtleReader/TurtleReader.lua"
+local file_name = "TurtleReader.lua"
+    shell.run("delete",file_name)
+    shell.run("wget",file_GUI)
+    --shell.run("delete","disk/ControlRoom/GUI.lua")
+    --shell.run("copy","GUI.lua","disk/ControlRoom/GUI.lua")
+
+    
+    print(os.time())
+    print("Updated!")
